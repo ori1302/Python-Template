@@ -14,6 +14,7 @@ def main(args, loglevel):
     if args.interactive:
         interactive()
 
+
 def interactive():
     help_message = """
     help - show this help message
